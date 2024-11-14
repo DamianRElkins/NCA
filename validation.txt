@@ -1,0 +1,41 @@
+
+Validation of student 'frcg69':
+------------------------------
+
+'NegSelTraining.py'      exists
+'NatAlgReal.py'          exists
+'NatAlgDiscreteA.py'     exists
+'NatAlgDiscreteB.py'     exists
+'NatAlgDiscreteC.py'     exists
+'WitnessA.txt'           exists
+'WitnessB.txt'           exists
+'WitnessC.txt'           exists
+'NegSelReport.pdf'       exists
+'NatAlgReport.pdf'       exists
+'validation.txt'         exists
+
+for 'NegSelTraining.py':
+  username = 'frcg69'; algorithm code = 'VD'
+for 'NatAlgReal.py':
+  username = 'frcg69'; algorithm code = 'AB'
+for 'NatAlgDiscreteA.py':
+  username = 'frcg69'; algorithm code = 'FF'; problem code = 'CL'; graph digit = 'A'
+for 'NatAlgDiscreteB.py':
+  username = 'frcg69'; algorithm code = 'FF'; problem code = 'CL'; graph digit = 'B'
+for 'NatAlgDiscreteC.py':
+  username = 'frcg69'; algorithm code = 'FF'; problem code = 'CL'; graph digit = 'C'
+
+for 'WitnessA.txt':
+  username = 'frcg69'; algorithm code = 'FF'; problem code = 'CL'; graph digit = 'A'
+  parameters = [n = 128, num_cyc = 5, N = 10, lambbda = 0.1, alpha = 0.2]
+  clique size = 86; elapsed time = 0.1
+for 'WitnessB.txt':
+  username = 'frcg69'; algorithm code = 'FF'; problem code = 'CL'; graph digit = 'B'
+  parameters = [n = 425, num_cyc = 5, N = 5, lambbda = 0.1, alpha = 0.1]
+  clique size = 346; elapsed time = 0.3
+for 'WitnessC.txt':
+  username = 'frcg69'; algorithm code = 'FF'; problem code = 'CL'; graph digit = 'C'
+  parameters = [n = 900, num_cyc = 5, N = 30, lambbda = 0.1, alpha = 0.1]
+  clique size = 58; elapsed time = 14.3
+
+The submission has successfully validated!
